@@ -5,8 +5,8 @@ class Auth {
     $guid, $host;
 public $res, $test;
     function __construct() {
-        $this->login = 'ддд';
-        $this->pass = 'ддд';
+        $this->login = 'demoDelivery';
+        $this->pass = 'PI1yFaKFCGvvJKi';
         $this->host = 'https://iiko.biz:9900/api/0/';
         $this->guid = '23f55ba4-8c8a-11e7-80df-d8d38565926f';
         $this->options = array(
